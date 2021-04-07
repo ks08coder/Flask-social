@@ -8,7 +8,7 @@ import models
 
 DEBUG = True
 PORT = 8000
-HOST = '127.0.0.1'
+HOST = '0.0.0.0'
 
 app = Flask(__name__)
 app.secret_key = 'asdnafnj#46sjsnvd(*$43sfjkndkjvnskb6441531@#$$6sddf'
